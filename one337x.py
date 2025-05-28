@@ -38,7 +38,7 @@ class one337x(object):
         'movies': 'Movies',
         'music': 'Music',
         'tv': 'TV',
-        'xxx': 'XXX',
+        'porn': 'XXX',
     }
 
     class MyHtmlParser(HTMLParser):
